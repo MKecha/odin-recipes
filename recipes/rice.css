@@ -1,0 +1,16 @@
+div {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(190, 184, 176);
+}
+
+body {
+    background-color:rgb(44, 48, 58)
+}
+
+.img {
+    height: 194px;
+}
+
+.link {
+    color: rgb(190, 184, 176);
+}

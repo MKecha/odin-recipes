@@ -1,0 +1,28 @@
+.background {
+    background-color:rgb(44, 48, 58)
+}
+
+#img {
+    height: 194px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(190, 184, 176);
+}
+
+.header2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(190, 184, 176);
+}
+
+.link {
+    color: rgb(190, 184, 176);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(190, 184, 176);
+
